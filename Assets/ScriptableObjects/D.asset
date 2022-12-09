@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66a312324ea9cc3488b98706c130f68a, type: 3}
+  m_Name: D
+  m_EditorClassIdentifier: 
+  AvailableMoves:
+  - LineIndex: 0
+    StartNode: {fileID: 11400000}
+    FinishNode: {fileID: 11400000, guid: d47dfadf6a08f5848819ad54f4c80456, type: 2}
+  - LineIndex: 0
+    StartNode: {fileID: 11400000}
+    FinishNode: {fileID: 11400000, guid: 1d58d9ea07f6384439011a4a63d6ae33, type: 2}
+  - LineIndex: 3
+    StartNode: {fileID: 11400000}
+    FinishNode: {fileID: 11400000, guid: b74f0e610be5c9a48b58020c73cff1a8, type: 2}
+  - LineIndex: 3
+    StartNode: {fileID: 11400000}
+    FinishNode: {fileID: 11400000, guid: d6b7710379f027b4a8759dcac3350ecb, type: 2}
